@@ -5,10 +5,14 @@ LGES
 
 Running:
 Missouth
-
+LearnRuby
+Empty-Project
+BlackHole
 
 Idle:
 N-Core
+RubyHK
+Scope::AdHoc
 
 
 Dead:
